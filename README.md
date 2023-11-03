@@ -12,16 +12,13 @@ A graphical user interface (GUI) that creates a Wifi Hotspot and connects to an 
 ![alt text](https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/hotspot.PNG?raw=true)
 
 
-![alt text](https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/MQTT_connect.PNG?raw=true)
+<div align="center">
+    <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/MQTT_connect.PNG">
+    <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/import_dbc.PNG">
+    <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/Publish_msg.PNG">
+    <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/CAN_Frames.PNG">
+    <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/Real_time_display.PNG">
+</div>
 
 
-![alt text](https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/import_dbc.PNG?raw=true)
 
-
-![alt text](https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/Publish_msg.PNG?raw=true)
-
-
-![alt text](https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/CAN_Frames.PNG?raw=true)
-
-
-![alt text](https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/Real_time_display.PNG?raw=true)
