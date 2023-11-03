@@ -14,11 +14,24 @@ A graphical user interface (GUI) that creates a Wifi Hotspot and connects to an 
 
 <div align="center">
     <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/MQTT_connect.PNG">
+</div>
+
+<div align="center">
     <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/import_dbc.PNG">
+</div>
+
+<div align="center">
     <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/Publish_msg.PNG">
+</div>
+
+<div align="center">
     <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/CAN_Frames.PNG">
+</div>
+
+<div align="center">
     <img src="https://github.com/RamiMarzougui/Hotspot-MQTT-listener-GUI/blob/main/screenshots/Real_time_display.PNG">
 </div>
+
 
 
 
