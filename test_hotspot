@@ -1,0 +1,29 @@
+import subprocess
+import pyuac
+
+def create_hotspot():
+    subprocess.call('netsh wlan set hostednetwork mode=allow ssid=TestingR key=MyPassword', shell=True)
+    subprocess.call('netsh wlan start hostednetwork', shell=True)
+    print('Hotspot created successfully.')
+
+def stop_hotspot():
+    subprocess.call('netsh wlan stop hostednetwork', shell=True)
+    print('Hotspot stopped successfully.')
+
+
+def main():
+    create_hotspot()
+    while True :
+        user_input = input('Type "close" to stop the hotspot: ')
+        if user_input.lower() == 'close':
+            stop_hotspot()
+            break
+
+
+if __name__ == '__main__':
+    if not pyuac.isUserAdmin():
+        print("Re-launching as admin!")
+        pyuac.runAsAdmin()
+    else:        
+        main()  # Already an admin here.
+    
